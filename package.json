@@ -1,0 +1,22 @@
+{
+  "name": "snakeclone-phaser",
+  "version": "1.0.0",
+  "description": "*An old Snake clone I made in 2018* &nbsp;   &nbsp;   &nbsp;   ## Summary I figured I should post some of these old projects up on my github to show how I've improved over the years.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkA772/snakeClone-Phaser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkA772/snakeClone-Phaser/issues"
+  },
+  "homepage": "https://github.com/MarkA772/snakeClone-Phaser#readme",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
