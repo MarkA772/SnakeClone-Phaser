@@ -249,7 +249,7 @@ function moveCircleTo(circ1, circ2) {
 }
 
 function createTail() {
-    for (i = 0; i < tail.length; i += 1) {
+    for (let i = 0; i < tail.length; i += 1) {
         if (i % 2 === 0) {
         } else if (i == tail.length - 1) {
             adjustRect(tail[i - 1], player, tail[i]);
